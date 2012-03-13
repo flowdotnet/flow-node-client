@@ -1,0 +1,9 @@
+{
+    "name" : "flow-node"
+  , "description" : "Flow.net API client for node.js"
+  , "version" : "0.1"
+  , "main" : "./lib/flow.js"
+  , "homepage" : "http://flow.net"
+  , "keywords" : [ "flow", "flow.net", "realtime" ]
+  , "author" : "Nathan Faubion <nathan@flow.net>"
+}

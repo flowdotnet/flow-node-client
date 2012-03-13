@@ -1,0 +1,7 @@
+{
+    "key"       : "<key>"
+  , "secret"    : "<secret>"
+  , "actor"     : "<actor>"
+  , "namespace" : "<path>"
+  , "appName"   : "<appName>"
+}
